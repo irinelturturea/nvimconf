@@ -1,0 +1,6 @@
+require("irinel.plugins.nvim-tree")
+require("irinel.plugins.comment")
+require("irinel.plugins-setup")
+require("irinel.core.options")
+require("irinel.core.keymaps")
+require("irinel.core.colorscheme")
